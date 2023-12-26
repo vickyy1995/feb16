@@ -1,0 +1,2 @@
+employee 1 name = rajesh
+employee 2 name = ganesh
